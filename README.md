@@ -10,6 +10,8 @@
 - 🥅 2021 Goals: Complete SecurityFa Project and Got Verifyed !
 - ⚡ Fun fact: I love to Music and Developing Discord.js
 
+### Github Stat
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kermit-xaro&show_icons=true&locale=en&layout=compact" alt="Kermit_xaro" /></p>
 
 ### Connect with me:
 [<img align="left" alt="Kermit_xaro | DiscordServer" width="22px" src="https://media.discordapp.net/attachments/832678285808500738/832678621143367761/91_Discord_logo_logos-512.webp?width=461&height=461" />][Discordserver]
