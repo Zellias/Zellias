@@ -1,6 +1,6 @@
 [![MasterHead](https://media.discordapp.net/attachments/832678285808500738/832687690440769586/e8bb79f59a5452b181a7b22e291568c8.jpg?width=765&height=273)](https://achar.ml)
 ### Hi there, I'm Kermit_Xaro 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kermit-xaro&label=Profile%20views&color=129e00&style=plastic" alt="kermit_xaro" /> </p>
 
 ## I'm a Discord.js Developer !!
 
