@@ -19,7 +19,7 @@
 
 ### Github Stat
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kermit-xaro&show_icons=true&locale=en&layout=compact" alt="Kermit_xaro" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kermit-xaro&show_icons=true&locale=en" alt="Kermit_Xaro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kermit-xaro&show_icons=true&locale=en" alt="Kermit_Xaro" /></p>
 
 
 
