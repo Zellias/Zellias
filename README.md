@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate with other Discord Developers
 - 🥅 2021 Goals: Complete SecurityFa Project and Got Verifyed !
 - ⚡ Fun fact: I love to Music and Developing Discord.js
+
+---
 ## Github Status !!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kermit-xaro&show_icons=true&locale=en&layout=compact" alt="Kermit_xaro" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kermit-xaro&show_icons=true&locale=en" alt="Kermit_Xaro" /></p>
@@ -20,7 +22,7 @@
 <br>
 <br>
 Visitors<br>
-<img src="https://profile-counter.glitch.me/matmaz1382/count.svg" />
+<img src="https://profile-counter.glitch.me/kermit-xaro/count.svg" />
 </h3>
 <br>
 <br>  
