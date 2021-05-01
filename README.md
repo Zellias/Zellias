@@ -17,13 +17,8 @@
 
 
 
----
-
-
-
-##Visitors
-<img src="https://profile-counter.glitch.me/kermit-xaro/count.svg" />
-
+## Visitor Counter
+<p><img align="left" src="https://profile-counter.glitch.me/kermit-xaro/count.svg" alt="Kermit_Xaro" /></p>
 
 
 
