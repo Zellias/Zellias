@@ -20,13 +20,10 @@
 ---
 
 
-<br>
-<br>
-Visitors<br>
+
+##Visitors
 <img src="https://profile-counter.glitch.me/kermit-xaro/count.svg" />
-</h3>
-<br>
-<br>  
+
 
 
 
