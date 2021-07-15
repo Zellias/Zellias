@@ -5,12 +5,10 @@
 <p><img align="left" src="https://profile-counter.glitch.me/kermit-xaro/count.svg" alt="Kermit_Xaro" /></p>
 
 ## I'm a Discord.js Developer !!
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://media.discordapp.net/attachments/832678285808500738/832678621143367761/91_Discord_logo_logos-512.webp?width=461&height=461" /> Discord ID : ◤ kylo ZΞЯØ#0457
-- 🔭 I just launched my first course: SecurityFa Project!
-- 🌱 I’m currently learning Discord.js
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://media.discordapp.net/attachments/832678285808500738/832678621143367761/91_Discord_logo_logos-512.webp?width=461&height=461" /> Discord ID : ੴ katyusha ριЖιs#6080
 - 👯 I’m looking to collaborate with other Discord Developers
-- 🥅 2021 Goals: Complete SecurityFa Project and Got Verifyed !
-- ⚡ Fun fact: I love to Music and Developing Discord.js
+- 🥅 2021 Goals: Complete Wabbit Project !
+- ⚡ Fun fact: Nothing
 
 ---
 ## Github Status !!
@@ -25,6 +23,5 @@
 
 
 
-[Discordserver]: https://discord.gg/A2dbATeJve
 [instagram]: https://instagram.com/kermit_xaro
 [soundcloud]: https://soundcloud.com/user-618298858
