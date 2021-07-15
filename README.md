@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/banners/710822544407527426/c97bb55aefe398d32771bac758eea9f5.png?size=512)](https://achar.ml)
+[![MasterHead](https://media.discordapp.net/attachments/864375456283361280/865052447487557672/New_Project_5.png)](https://achar.ml)
 ### Hi there, I'm Katyusha_Pixis 👋
 
 ## Visitor Counter
