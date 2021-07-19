@@ -16,7 +16,6 @@
 ---
 
 
----
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://media.discordapp.net/attachments/832678285808500738/832678621143367761/91_Discord_logo_logos-512.webp?width=461&height=461" /> Discord ID : ੴ katyusha ριЖιs#6080
 
 
