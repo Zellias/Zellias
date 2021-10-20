@@ -1,5 +1,5 @@
 [![MasterHead](https://media.discordapp.net/attachments/864375456283361280/865052447487557672/New_Project_5.png)](https://achar.ml)
-### Hi there, I'm Katyusha_Pixis 👋
+### Hi there, I'm Kermit_Xaro 👋
 
 ## Visitor Counter <p><img align="left" src="https://profile-counter.glitch.me/kermit-xaro/count.svg" alt="katyusha-pixis" /></p>
 
