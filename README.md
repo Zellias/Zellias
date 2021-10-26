@@ -21,8 +21,8 @@
 
 ---
 ## Github Status !!
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katyusha-pixis&show_icons=true&locale=en&layout=compact" alt="katyusha-pixis" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=katyusha-pixis&show_icons=true&locale=en" alt="katyusha-pixis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kermit-hastam&show_icons=true&locale=en&layout=compact" alt="Kermit-hastam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Kermit-hastam&show_icons=true&locale=en" alt="Kermit-hastam" /></p>
 
 
 
