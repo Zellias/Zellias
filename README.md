@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/939338555254272040/941532420598018098/pokilogo_1.png?width=761&height=634)](https://github.com/Kermit-hastam)
+[![MasterHead](https://media.discordapp.net/attachments/939338555254272040/941532420598018098/pokilogo_1.png?width=761&height=634)](https://github.com/poki-dev0)
 ### Hi there, I'm Poki 👋
 
 ## Visitor Counter <p><img align="left" src="https://profile-counter.glitch.me/poki-dev0/count.svg" alt="PoKi" /></p>
