@@ -1,7 +1,7 @@
-[![MasterHead](https://media.discordapp.net/attachments/864375456283361280/865052447487557672/New_Project_5.png)](https://achar.ml)
-### Hi there, I'm Kermit_Xaro 👋
+[![MasterHead](https://media.discordapp.net/attachments/939338555254272040/941532420598018098/pokilogo_1.png?width=761&height=634)](https://github.com/Kermit-hastam)
+### Hi there, I'm Poki 👋
 
-## Visitor Counter <p><img align="left" src="https://profile-counter.glitch.me/kermit-xaro/count.svg" alt="katyusha-pixis" /></p>
+## Visitor Counter <p><img align="left" src="https://profile-counter.glitch.me/poki-dev/count.svg" alt="PoKi" /></p>
 
 
 
@@ -16,13 +16,13 @@
 ---
 
 
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://media.discordapp.net/attachments/832678285808500738/832678621143367761/91_Discord_logo_logos-512.webp?width=461&height=461" /> Discord ID : Kermit_Xaro#0001
+ Discord ID : Poki Dev#5578
 
 
 ---
 ## Github Status !!
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kermit-hastam&show_icons=true&locale=en&layout=compact" alt="Kermit-hastam" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Kermit-hastam&show_icons=true&locale=en" alt="Kermit-hastam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kermit-hastam&show_icons=true&locale=en&layout=compact" alt="poki-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=poki-dev&show_icons=true&locale=en" alt="poki-dev" /></p>
 
 
 
