@@ -11,7 +11,6 @@
 ---
 
 - 👯 I’m looking to collaborate with other Discord Developers
-- 🥅 2021 Goals: Complete Wabbit Project !
 - ⚡ Fun fact: Nothing
 ---
 
