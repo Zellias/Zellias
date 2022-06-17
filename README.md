@@ -15,13 +15,13 @@
 ---
 
 
- Discord ID : ! ◮ 𝐋𝐚𝐯𝐞𝐧𝐜𝐲 ᴛᴡɪɢ#1989
+ Discord ID : ਬ Kermit_Xaro#2222
 
 
 ---
 ## Github Status !!
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poki-dev0&show_icons=true&locale=en&layout=compact" alt="poki-dev" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=poki-dev0&show_icons=true&locale=en" alt="poki-dev0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavency&show_icons=true&locale=en&layout=compact" alt="lavency" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lavency&show_icons=true&locale=en" alt="poki-dev0" /></p>
 
 
 
@@ -32,4 +32,4 @@
 
 
 [instagram]: https://instagram.com/kermit_xaro
-[soundcloud]: https://soundcloud.com/user-618298858
+
