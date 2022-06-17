@@ -9,8 +9,6 @@
 
 
 ---
-
-- 👯 I’m looking to collaborate with other Discord Developers
 - ⚡ Fun fact: Nothing
 ---
 
