@@ -13,7 +13,7 @@
 ---
 
 
- Discord ID : ਬ Kermit_Xaro#2222
+ Discord ID : ਬ Kermit_Xaro#6697
 
 
 ---
