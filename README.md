@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/944380483192647680/944387694069436477/New_Project_6.png?width=962&height=389)]()
+[![MasterHead](https://media.discordapp.net/attachments/1081179526853296262/1081201634589286471/pfps-xw3YNj.gif?width=594&height=321)]()
 ### Hi there, I'm Zellias 👋
 
 ## Visitor Counter <p><img align="left" src="https://profile-counter.glitch.me/zellias/count.svg" alt="PoKi" /></p>
