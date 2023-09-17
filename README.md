@@ -46,7 +46,7 @@
 
 <!-- Contact -->
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hosein-rangani-96663b259/) or [Twitter](https://twitter.com/_zellias). You can also check out my other projects on [GitHub](https://github.com/yourusername).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hosein-rangani-96663b259/) or [Twitter](https://twitter.com/_zellias). You can also check out my other projects on [GitHub](https://github.com/Zellias?tab=repositories)
 
 <!-- Footer -->
 <p align="center">Thanks for visiting! 😊</p>
