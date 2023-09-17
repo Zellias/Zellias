@@ -40,9 +40,9 @@
 
 <!-- Projects -->
 ## Projects
-- [Project 1](link-to-project-1): Brief description here.
-- [Project 2](link-to-project-2): Brief description here.
-- [Project 3](link-to-project-3): Brief description here.
+- [xui.client](https://github.com/Zellias/xui.client): A Node.js package that simplifies connecting and moderating your XUI panel, making it effortless to manage your online presence. (Edit this in your own text)
+- [xui-telegram-alert](https://github.com/Zellias/xui-telegram-alert): Elevate your subscription management with this Telegram bot, designed to send timely reminders to XUI panel users, ensuring they never miss a payment. (Edit this in your own text)
+- [wabbitv2](https://github.com/Zellias/wabbitv2): Fortify your Discord server against raids and nukes with Wabbitv2, a reliable and customizable Discord bot that keeps your community safe. (Edit this in your own text)
 
 <!-- Contact -->
 ## Contact
