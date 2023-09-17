@@ -9,10 +9,10 @@
   <a href="https://www.linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/_zellias">
     <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat-square&logo=twitter">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/zellias">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github">
   </a>
 </p>
@@ -38,7 +38,7 @@
 
 <!-- Contact -->
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername). You can also check out my other projects on [GitHub](https://github.com/yourusername).
+Feel free to connect with me on [Discord](https://www.discord.gg/zellias) or [Twitter](https://twitter.com/_zellias). You can also check out my other projects on [GitHub](https://github.com/zellias).
 
 <!-- Footer -->
 <p align="center">Thanks for visiting! 😊</p>
