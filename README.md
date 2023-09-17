@@ -1,19 +1,27 @@
 <!-- Title -->
 <h1 align="center">👋 Hi there, I'm Zellias!</h1>
 
+<!-- Profile Picture (rounded) -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/65454734?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
+</p>
+
 <!-- Introduction -->
 <p align="center">I'm an 18-year-old MERN stack developer passionate about building amazing web applications.</p>
 
-<!-- Badges (optional) -->
+<!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-  </a>
   <a href="https://twitter.com/_zellias">
     <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat-square&logo=twitter">
   </a>
-  <a href="https://github.com/zellias">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github">
+  <a href="https://www.instagram.com/zel.lias/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=flat-square&logo=instagram">
+  </a>
+  <a href="https://discord.gg/zellias">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=flat-square&logo=discord">
+  </a>
+  <a href="https://www.linkedin.com/in/hosein-rangani-96663b259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
 
@@ -38,7 +46,7 @@
 
 <!-- Contact -->
 ## Contact
-Feel free to connect with me on [Discord](https://www.discord.gg/zellias) or [Twitter](https://twitter.com/_zellias). You can also check out my other projects on [GitHub](https://github.com/zellias).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hosein-rangani-96663b259/) or [Twitter](https://twitter.com/_zellias). You can also check out my other projects on [GitHub](https://github.com/yourusername).
 
 <!-- Footer -->
 <p align="center">Thanks for visiting! 😊</p>
