@@ -7,7 +7,7 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">I'm an 18-year-old MERN stack developer passionate about building amazing web applications.</p>
+<p align="center">I'm an 19-year-old MERN stack developer passionate about building amazing web applications.</p>
 
 <!-- Social Media Links -->
 <p align="center">
@@ -36,7 +36,7 @@
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Tools**: Git, VS Code, Postman
+- **Tools**: Git, VS Code, Postman, Burp suite
 
 <!-- Projects -->
 ## Projects
