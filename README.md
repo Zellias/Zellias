@@ -33,7 +33,7 @@
 
 <!-- Tech Stack -->
 ## Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Tools**: Git, VS Code, Postman, Burp suite
