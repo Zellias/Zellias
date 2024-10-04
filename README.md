@@ -1,5 +1,7 @@
+
+
 <!-- Title -->
-<h1 align="center">👋 Hi there, I'm Zellias!</h1>
+<h1 align="center">👋 Hey there, I'm Zellias!</h1>
 
 <!-- Profile Picture (rounded) -->
 <p align="center">
@@ -7,46 +9,64 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">I'm an 19-year-old MERN stack developer passionate about building amazing web applications.</p>
+<p align="center">I'm a 19-year-old MERN stack developer with a passion for creating impactful web applications and exploring cutting-edge technologies.</p>
 
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://twitter.com/_zellias">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat-square&logo=twitter">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter">
   </a>
   <a href="https://www.instagram.com/zel.lias/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=flat-square&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=for-the-badge&logo=instagram">
   </a>
   <a href="https://discord.gg/zellias">
-    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=flat-square&logo=discord">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord">
   </a>
   <a href="https://www.linkedin.com/in/hosein-rangani-96663b259/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 <!-- About Me -->
 ## About Me
-- 🎓 Studying computer science
-- 💻 Love coding and exploring new technologies
-- 🌐 Web development enthusiast
+- 🎓 **Studying Computer Science**: I'm currently advancing my knowledge in computer science to stay on the cutting edge.
+- 💻 **Coding Enthusiast**: I thrive on developing efficient, scalable solutions using the latest technologies.
+- 🌐 **Web Development Specialist**: My focus is on building seamless, full-stack web experiences that users love.
 
 <!-- Tech Stack -->
 ## Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Tools**: Git, VS Code, Postman, Burp suite
+- **Frontend**: 
+  - HTML, CSS, JavaScript, React
+  - Styling: Tailwind CSS, Bootstrap
+- **Backend**:
+  - Node.js, Express.js
+- **Database**:
+  - MongoDB
+- **Tools**: 
+  - Git, VS Code, Postman, Burp Suite
+- **Others**: REST APIs, JWT Authentication, Mongoose, Socket.IO
 
 <!-- Projects -->
 ## Projects
-- [xui.client](https://github.com/Zellias/xui.client): A Node.js package that simplifies connecting and moderating your XUI panel, making it effortless to manage your online presence. 
-- [xui-telegram-alert](https://github.com/Zellias/xui-telegram-alert): Elevate your subscription management with this Telegram bot, designed to send timely reminders to XUI panel users, ensuring they never miss a payment. 
-- [wabbit](https://github.com/Zellias/wabbitv2): Fortify your Discord server against raids and nukes with Wabbitv2, a reliable and customizable Discord bot that keeps your community safe.
+### 🚀 Featured Projects
+- **[xui.client](https://github.com/Zellias/xui.client)**: A Node.js package that simplifies connecting and moderating your XUI panel, making it effortless to manage your online presence.
+- **[xui-telegram-alert](https://github.com/Zellias/xui-telegram-alert)**: Automate subscription reminders with this Telegram bot for XUI panel users, ensuring timely payments and hassle-free management.
+- **[Wabbit](https://github.com/Zellias/wabbitv2)**: Keep your Discord server safe from raids and nukes with Wabbitv2, a customizable and reliable Discord bot.
+- 
+<!-- Social Proof and Learning -->
+## 🏆 Highlights & Learning
+- 💡 Constantly learning new frameworks and libraries to level up my development skills.
+- 🔍 Exploring **GraphQL**, **Next.js**, and **TypeScript** to bring more flexibility to my development stack.
+- 🎯 Strong focus on writing **clean, maintainable code** and applying **best practices**.
 
 <!-- Contact -->
-## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hosein-rangani-96663b259/) or [Twitter](https://twitter.com/_zellias). You can also check out my other projects on [GitHub](https://github.com/Zellias?tab=repositories)
+## 📬 Let's Connect
+I'm always open to collaborating on exciting projects, discussing tech, or even grabbing a virtual coffee ☕. You can reach out to me through:
+- **[LinkedIn](https://www.linkedin.com/in/hosein-rangani-96663b259/)**
+- **[Twitter](https://twitter.com/_zellias)**
+- Or browse my other work on **[GitHub](https://github.com/Zellias?tab=repositories)**.
 
 <!-- Footer -->
-<p align="center">Thanks for visiting! 😊</p>
+<p align="center">Thanks for visiting my profile! Let's build something amazing together. 😊</p>
+
+---
