@@ -37,13 +37,15 @@
 ## Tech Stack
 - **Frontend**: 
   - HTML, CSS, JavaScript, React
-  - Styling: Tailwind CSS, Bootstrap
+  - Styling: Tailwind CSS, Bootstrap, Sass
 - **Backend**:
-  - Node.js, Express.js
+  - Express.js
+- **Runtimes**:
+  - Node.js, Deno.js
 - **Database**:
-  - MongoDB
+  - MongoDB, SQL
 - **Tools**: 
-  - Git, VS Code, Postman, Burp Suite
+  - Git, VS Code, Postman, Burp Suite, Prisma
 - **Others**: REST APIs, JWT Authentication, Mongoose, Socket.IO
 
 <!-- Projects -->
